@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="cpp_training" type="pointcloud_merge" name="pointcloud_merge" output="screen"/>
+</launch>

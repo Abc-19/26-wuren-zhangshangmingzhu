@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/cpp_training_ws/devel
+
+Name: cpp_training
+Description: Description of cpp_training
+Version: 0.0.0
+Cflags: -I/home/ubuntu/cpp_training_ws/devel/include
+Libs: -L${prefix}/lib -lcpp_training
+Requires: roscpp std_msgs sensor_msgs message_runtime

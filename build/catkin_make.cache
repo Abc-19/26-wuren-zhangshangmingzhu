@@ -1,0 +1,2 @@
+cpp_training:fsd_common_msgs
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/cpp_training_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/cpp_training_ws/install -G Unix Makefiles

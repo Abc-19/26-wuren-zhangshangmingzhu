@@ -1,0 +1,2 @@
+fsd_common_msgs
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/custom_msgs_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/custom_msgs_ws/install -G Unix Makefiles

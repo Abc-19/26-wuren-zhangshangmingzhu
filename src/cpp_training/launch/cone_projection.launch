@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="cpp_training" type="cone_projection" name="cone_projection" output="screen"/>
+</launch>

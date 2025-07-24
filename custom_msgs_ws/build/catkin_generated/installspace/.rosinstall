@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/custom_msgs_ws/install/setup.sh
